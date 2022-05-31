@@ -99,7 +99,7 @@ ul, li {
  transition-delay: 1s;
 }
 .header-top {
- background: rgba(0, 47, 77, .5);
+ /*background: rgba(0, 47, 77, .5);*/
  height: 150px;
  padding: 0 10px;
  position: fixed;
